@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Generated dataset
+CleanSpeech_training/*
+Noise_training/*
+NoisySpeech_training/*
